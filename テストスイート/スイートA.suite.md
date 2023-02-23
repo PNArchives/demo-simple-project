@@ -1,5 +1,5 @@
 ### Test Suite Name
-テストスイート名
+スイートA
 
 ### Test Suite Description
 テストスイート説明
