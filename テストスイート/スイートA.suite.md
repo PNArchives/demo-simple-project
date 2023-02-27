@@ -3,10 +3,3 @@
 
 ### Test Suite Description
 テストスイート説明
-
-### Test Case Order
-- 01.spec.md
-- 02.spec.md
-- 03.spec.md
-- 04.spec.md
-- 05.spec.md
